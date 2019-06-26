@@ -1,7 +1,5 @@
 /*
- Programme pour le projet plante conectée.
-
-
+ Program for the "projet plante conectée".
 
 
 
@@ -24,11 +22,11 @@
 #define LIGHT_PIN 2 // Pin linked to the APDS9301 light sensor.
 
 // We define the connection options.
-#define USERNAME "GroupeGTYnov"
-#define DEVICE_ID "ARDUIN"
+#define USERNAME "username"
+#define DEVICE_ID "arduino"
 #define DEVICE_CREDENTIAL "r5Boe1Ige&#j"
 #define SSID "XperiaXA2" // Name of the wi-fi network.
-#define SSID_PASSWORD "23456789876" // Password of the wi-fi network.
+#define SSID_PASSWORD "123456" // Password of the wi-fi network.
 
 ThingerWifi thing(USERNAME, DEVICE_ID, DEVICE_CREDENTIAL); // Establishing connection with the wi-fi network.
 
