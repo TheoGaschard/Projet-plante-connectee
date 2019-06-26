@@ -1,6 +1,6 @@
 # Projet plante connetée
 
-Groupe Théo GASCHARD et Romain TRAUCHESSEC
+Groupe C Théo GASCHARD et Romain TRAUCHESSEC
 
 ## Indications relatives au déploiement 
 
