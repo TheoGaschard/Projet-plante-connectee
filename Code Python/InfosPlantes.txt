@@ -1,0 +1,4 @@
+herbe;Plante grasse;L'herbe est une plante commune en Europe;toute l'année
+pommier;Feuillus;Le pommier est l'arbre qui produit les pommes;au printemps
+rose;Fleur;La rose est une fleur souvent rose;de mars à octobre
+fraisier;Fruitier;Le fraisier est la plante qui produit des fraises;toute l'année
