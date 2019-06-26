@@ -14,4 +14,4 @@ Téléversez le programme Arduino en modifiant certaines lignes (lignes 25 à 30
  * Entrez la clé (credential) de l’équipement (device ) de thinger.io dans DEVICE_CREDENTIAL.
  * Entrez le nom de votre réseau WIFI dans SSID et le mot de passe dans SSID_PASSWORD.
 
-Lancer le programme Python
+Lancez le programme Python
