@@ -2,8 +2,10 @@
  Program for the "projet plante conectée".
 
 
-
  */
+
+#define _DEBUG_
+#define _DISABLE_TLS_
 
 #include <DHT.h> // Add of the DHT library.
 #include <DHT_U.h> // Add of the DHT_U library.
@@ -12,8 +14,6 @@
 #include "Wire.h"
 #include <Sparkfun_APDS9301_Library.h> // Adding the light sensor library.
 
-#define _DEBUG_
-#define _DISABLE_TLS_
 #define THINGER_USE_STATIC_MEMORY
 #define THINGER_STATIC_MEMORY_SIZE 512
 
