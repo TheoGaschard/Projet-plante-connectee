@@ -1,4 +1,30 @@
-herbe;Plante grasse;L'herbe est une plante commune en Europe;toute l'ann�e
-pommier;Feuillus;Le pommier est l'arbre qui produit les pommes;au printemps
-rose;Fleur;La rose est une fleur souvent rose;de mars � octobre
-fraisier;Fruitier;Le fraisier est la plante qui produit des fraises;toute l'ann�e
+vesce;Plante à fleurs;Plante grimpante de 1 mètre environ à fleur blanchâtres;de juin à septembre
+narthécie;Plante à fleurs;Plante vivace de 15-40 cm, fleurs jaunes en étoile;de juin à aout
+chardon;Plante à fleurs;Plante épineuse bisannuelle de 5-15 cm;de juin à septembre
+érable;Plante à fleurs;Arbre à feuillage caduc de 12-15 m;de avril à juin
+oseille;Plante à fleurs;Mauvaise herbe de 10-50 cm dont les feuilles sont utilisées en cuisine;de juin à aout
+napel;Plante à fleurs;Plante toxique avec des tiges de 1 m environ, fleurs violettes;de juillet à octobre
+géranium;Plante à fleurs;Plante vivace de 10-40 cm aux fleurs roses carmin;de juillet à aout
+cressonnette;Plante à fleurs;Plante de la famille des salades;de mars à juin
+glaïeul;Plante à fleurs;Plante vivace de 10-30 cm aux fleurs roses;de juillet à aout
+glaux;Plante à fleurs;Plante vivace de 5-30 cm aux fleurs blanches ou grises;de juillet à octobre
+gléchome;Plante à fleurs;Lierre terreste aux fleurs violettes;durant l'été
+glycérie;Plante à fleurs;Plante à céréales, longue tige verte;de juin à septembre
+antennaire;Plante à fleurs;Plante vivace de 5-15 cm aux fleurs grises;de juin à aout
+menthe;Plante à fleurs;Plante aromatique de 50-60 cm aux fleurs rosées ou bleutées;de juillet à octobre
+groseillier;Plante à fleurs;Arbre fruitier de 50-150 cm qui produit des groseilles;au primtemps
+orchis;Plante à fleurs;Plante vivace de 5-30 cm aux fleurs blanches ou grises;de juillet à octobre
+grémil;Plante à fleurs;Plante vivace de 10-40 cm aux fleurs bleues;de juillet à aout
+iris;Plante à fleurs;Plante vivace de 20-50 cm aux fleurs bleues ou violettes;de juillet à aout
+astragale;Plante à fleurs;Plante vivace de 15-40 cm, utilisée en médecine;de juin à aout
+lierre;Lianes;Lianne grimpamte;de juillet à aout
+pissenlit des marais;Plante à fleurs;Plante vivace de 5-15 cm aux fleurs jaunes;de juin à aout
+hélianthème;Plante à fleurs;Plante vivace de 10-30 cm aux fleurs jaunes;de juin à septembre
+tournesol;Plante à fleurs;Plante de 1-2 m avec des fleurs de grande dimensions;de juillet à aout
+avoine;Plante à fleurs;Plante à céréales, longue tige verte;de juin à septembre
+ellébore;Plante à fleurs;Plante vivace de 10-30 cm aux fleurs blanches;de juillet à aout
+ache;Plante à fleurs;Plante ressamblant au céleri;durant l'été
+narcisse;Plante à fleurs;Les narcisses sont des plantes bulbeuses portant de une à plusieurs fleurs;de juillet à aout
+chou;Plante à fleurs;Plante aux feilles commestibles, fleurs violettes;durant l'été
+julienne des dames;Plante à fleurs;Plante vivace de 20-60 cm aux fleurs bleues ou violettes;de juillet à aout
+rosier;Plante à fleurs;Plante épineuse et grimpante aux fleurs blanches roses ou rouges;en juin
