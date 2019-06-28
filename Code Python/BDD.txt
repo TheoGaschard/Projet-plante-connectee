@@ -1,31 +1,30 @@
-vesce;50000;25;40;378
-narthécie des marais;5000;20;90;486
-chardon aux ânes;4500;20;40;294
-érable du japon;3500;15;60;378
-petite oseille;4500;20;40;324
+vesce;5000;25;40;378
+narthÃ©cie;5000;20;90;486
+chardon;4500;20;40;294
+Ã©rable;3500;15;60;378
+oseille;4500;20;40;324
 napel;2600;20;90;405
-géranium sanguin;2600;25;50;324
-benoîte hispide;3000;10;70;378
+gÃ©ranium;2600;25;50;324
 cressonnette;2600;15;90;405
-glaïeul douteux;3500;35;40;324
+glaÃ¯eul;3500;35;40;324
 glaux;4500;20;70;405
-gléchome hérissé;2500;15;60;378
-glycérie dentée;3500;25;100;432
-antennaire des carpates;4500;10;50;378
-menthe des champs;4500;20;90;405
-groseillier à maquereaux;2000;20;50;378
-orchis blanchâtre;4500;15;60;378
-grémil ligneux;4000;30;20;294
-iris sisyrhinque;4500;30;20;294
-astragale à gousses;4000;25;20;324
+glÃ©chome;2500;15;60;378
+glycÃ©rie;3500;25;100;432
+antennaire;4500;10;50;378
+menthe;4500;20;90;405
+groseillier;2000;20;50;378
+orchis4500;15;60;378
+grÃ©mil ligneux;4000;30;20;294
+iris;4500;30;20;294
+astragale;4000;25;20;324
 lierre;2500;20;60;378
-pissenlit des marais;4500;20;90;432
-hélianthème de syrie;4500;30;20;294
+pissenlit;4500;20;90;432
+hÃ©lianthÃ¨me de syrie;4500;30;20;294
 tournesol;4500;25;40;378
-avoine pubescente;3000;20;40;294
-ellébore d'hiver;1500;15;90;405
+avoine;3000;20;40;294
+ellÃ©bore d'hiver;1500;15;90;405
 ache;3500;20;90;432
-narcisse à bouquet;4500;30;60;405
-chou des champs;5000;35;10;294
+narcisse;4500;30;60;405
+chou;5000;35;10;294
 julienne des dames;3500;20;80;405
-lambda;90;28;45;540
+rosier;90;28;45;540
