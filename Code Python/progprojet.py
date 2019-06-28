@@ -6,8 +6,9 @@ import json
 
 
             ## Connexion à l'API :
-            
-print("\nApplication plante connectée\n")
+
+print("**********************************************")   
+print("\n        Application plante connectée\n")
 
 url_api = "https://api.thinger.io/"
 parametre = "oauth/token"
@@ -61,15 +62,16 @@ main_api = url_api+parametre
 
 
 devices = requests.get(main_api).json()
-print("Liste des devices :")
+print("\nListe des équipements (device) :")
 for device in devices:
     print(device["device"])
 
-choixdevice = input("Devices disponibles : \n")
+choixdevice = input("Quel équipement voulez vous utiliser ? :")
 print("")
 
 ## print(devices)
 ## print("")
+print("Connexion en cours...")
 
 onpeutcontinuer = 0 
 for device in devices:
@@ -101,6 +103,7 @@ if (onpeutcontinuer == 1):
             valeurs.append(stats["out"])
         
         ##stats correspond à :  {'out': 24}
+        
    
     ## print(valeurs)
     
@@ -134,16 +137,16 @@ if (onpeutcontinuer == 1):
     for entree in Donnees:
         if (plante == entree[0]):
             print ("\nInformations sur : ", entree[0]) 
-            print ("L'humidité de l'air idéale est ", entree[3])
+            print ("L'humidité de l'air idéale est ", entree[3],"%")
             print ("L'humidité du sol idéale est ", entree[4])
-            print ("La température idéale est ", entree[2])
-            print ("La luminosité idéale est ", entree[1])
+            print ("La température idéale est ", entree[2],"degrés")
+            print ("La luminosité idéale est ", entree[1],"Lux")
             print ("\n")
-            print ("Données actuelles de : ", plante) 
-            print ("L'humidité de l'air actuelle est ", valeurs[0])
-            print ("L'humidité du sol actuelle est ", valeurs[1])
-            print ("La température actuelle est ", valeurs[2])
-            print ("La luminosité actuelle est ", valeurs[3])
+            print ("Données actuelles de votre plante") 
+            print ("L'humidité de l'air actuelle est ", valeurs[2],"%")
+            print ("L'humidité du sol actuelle est ", valeurs[3])
+            print ("La température actuelle est ", valeurs[1],"degrés")
+            print ("La luminosité actuelle est ", valeurs[0],"Lux")
             
             
             ## Informations suppémentaires:
@@ -159,14 +162,9 @@ if (onpeutcontinuer == 1):
                 print ("Informations supplémentaires sur le ", nom) 
                 print ("Elle fait partie du groupe des ", categorie)
                 print (info, ".") 
-                print ("Elle peut être plantée ", date) 
+                print ("Elle fleurit ", date) 
         
         
         
 print ("\n  Merci d'avoir utiliser notre application ")        
-        
-        
-        
-        
-        
-    
+
